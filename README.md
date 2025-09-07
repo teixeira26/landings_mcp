@@ -194,9 +194,3 @@ Este es un proyecto de Community Day. ¡Las contribuciones son bienvenidas!
 ---
 
 **¿Te gusta este proyecto?** ⭐ Dale una estrella en GitHub y compártelo con otros desarrolladores.
-# landing_page_mcps
-# landing_page_mcps
-# landings_mcp
-# landings_mcp
-# landings_mcp
-# landings_mcp
